@@ -1,0 +1,13 @@
+
+emp: 
+  detail: 
+    id: 9999999999
+    name: newJoinee
+    department: 257
+    projects: 
+      - Machine Larning
+      - Data Science
+      - DL
+    credential:
+      user-name: NewJoinee
+      password: welcome@1234
